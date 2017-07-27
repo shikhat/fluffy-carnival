@@ -10,3 +10,21 @@ Created two Java files:
 In the commented code at Main method in Main class is about directly passing the height and width (no user input)
 i.e directly initializing the cubeclass objects using parameterized constructor of it.
 Used arraylist which provides dynamic storage, since in real life we can should limit/control such type of object creation
+
+Steps to execute:
+
+run the Main.java
+then the program will ask:
+Enter height
+[provide height in int]
+Enter width
+[provide width in int]
+Continue?[Y/N]
+[Enter Y or N]
+
+The moment user enetr N
+it will show the output. Height in ascending  order and width in descending order.
+
+
+
+
